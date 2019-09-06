@@ -21,18 +21,18 @@ developers with knowledge in the field of AI, create projects that provide
 solutions to various problems through created Artificial Intelligence models.
 
 ## HackAI Work Flow
-Every of the selected participant's are expected to have a good understanding of version Control Systems as well as a good understanding of git. 
+Every of the selected participant's are expected to have a good understanding of version Control System as well as a good understanding of git. 
 As a participant, you're expected to do the below listed.
 
 1. Create a private repository for your project.
 2. Add us as a collaborator to your repository before your first commit. (Username: "ai6-abeokuta")
-3. Wait for us to create a GitHub project which you will be added to. This helps us to monitor your work progress as you code. You can read more about github projects ![here](https://help.github.com/en/articles/about-project-boards)
+3. Wait for us to create a GitHub project which you will be added to. This helps us to monitor your work progress as you code. You can read more about github projects [here](https://help.github.com/en/articles/about-project-boards)
 4. Read our Version Control workflow below and adhere strictly to it.
-5. Go ahead and start working on your projects.
+5. Go ahead and start working on your project.
 
 
 ### Version Control Workflow
-Your projects progress is being tracked by the GitHub project we created for your team which is linked to your repository.
+Your project progress is being tracked by the GitHub project we created for your team which is linked to your repository.
 This makes it very important to adhere to a strict VC workflow. 
 
 #### Base branch: `master`
