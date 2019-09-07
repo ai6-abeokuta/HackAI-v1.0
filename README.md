@@ -2,7 +2,7 @@
 
 ## About Us 
 
-AI Saturday Abeokuta is a community-driven study group created to promote
+AI Saturdays Abeokuta is a community-driven study group created to promote
 Artificial Intelligence in Abeokuta and train its members to become skilled in
 the rapidly growing field of Artificial Intelligence.
 AI Saturday Abeokuta is currently in its second cycle, and it has seen almost
