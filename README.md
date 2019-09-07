@@ -3,26 +3,12 @@
 ## About Us 
 
 AI Saturdays Abeokuta is a community-driven study group created to promote
-Artificial Intelligence in Abeokuta and train its members to become skilled in
+Artificial Intelligence in Abeokuta. It trains its members to become skilled in
 the rapidly growing field of Artificial Intelligence.
-AI Saturday Abeokuta is currently in its second cycle, and it has seen almost
-double the number of members from the first cycle. The members of AI
-Saturday Abeokuta are mainly students of tertiary institutions and fresh
-graduates.
-
-## The Hackathon
-AI Saturdays Abeokuta is driven by the members desire to learn as many
-things as possible in the broad field of Artificial Intelligence, and a hackathon
-is one way to bring all of the acquired knowledge together, to create
-something special.
-
-The proposed title of the hackathon is “HackAI v1.0,” and the theme is "Creating AI Models That Solve Problems.” The goal of HackAI v1.0 is to have
-developers with knowledge in the field of AI, create projects that provide
-solutions to various problems through created Artificial Intelligence models.
 
 ## HackAI Work Flow
 Every of the selected participant's are expected to have a good understanding of version Control System as well as a good understanding of git. 
-As a participant, you're expected to do the below listed.
+As a participant, you're expected to do the following in order to get started.
 
 1. Create a private repository for your project.
 2. Add us as a collaborator to your repository before your first commit. (Username: "ai6-abeokuta")
@@ -53,4 +39,4 @@ To work on a new chore/feature/bug
 - push `develop` to remote (git push origin develop)
 - then, create pull request from `develop` to `master`
 
-##### NOTE: No one should push to master, this is very important. Always create a pull request first and get it merged to master by your team lead
+##### NOTE: No one should push to master, this is very important. Always create a pull request first and get it merged to master by your team lead.
